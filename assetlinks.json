@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.global.foodpanda.android.dev",
+    "sha256_cert_fingerprints":
+    ["14:FA:63:87:26:E3:0D:10:8A:0B:25:61:26:54:0D:61:78:BD:3F:3E:8E:10:CF:42:12:90:7E:97:4E:1C:C4:3C"]
+  }
+}]
